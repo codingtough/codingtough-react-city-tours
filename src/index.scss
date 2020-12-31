@@ -1,0 +1,19 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+html {font-size: 62.56%;}
+
+body {
+   background: $mainWhite;
+   color: $mainBlack;
+   font-family: "Open Sans", sans-serif;
+   font-size: 1.6rem;
+}
